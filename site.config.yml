@@ -6,9 +6,9 @@ framework:
     name: "@rathnasgala/theme"
     version: 2.0.24
 site:
-  id: unavailable
-  ownerId: unavailable
-  repository: unavailable
+  id: 01M1AG072NTSDGT6S18RQZPWM9
+  ownerId: 01M1AFSGKSSTRJCTPBWZG2X3G5
+  repository: sarattest/professional-organizer
   # Set the publication title and public author profile here. Until then the repository owner is shown.
   name: "ProfessionalOrganizer"
   author: unavailable
@@ -26,8 +26,8 @@ site:
 hosting:
   provider: github-pages
   topology: provider-default
-  canonicalBaseUrl: unavailable
-  pathPrefix: /unavailable
+  canonicalBaseUrl: https://sarattest.github.io
+  pathPrefix: /professional-organizer
   canonicalPolicy: self
 design:
   theme: editorial
