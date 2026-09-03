@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://sarattest.github.io/professional-organizer/feed/en.xml</id>
+  <title>ProfessionalOrganizer - en</title>
+  <author><name>ProfessionalOrganizer</name></author>
+  <updated>2026-09-03T07:07:31.982Z</updated>
+  <link rel="self" href="https://sarattest.github.io/professional-organizer/feed/en.xml"/>
+  <entry>
+    <id>urn:gala:article:01M1AG15QT4RHW8YG6AEH7W19M:en</id>
+    <title>Example post</title>
+    <updated>2026-08-10T00:00:00.000Z</updated>
+    <link href="https://sarattest.github.io/professional-organizer/en/example/"/>
+    <content type="html">&lt;p&gt;Replace this example with your first post.&lt;/p&gt;
+</content>
+  </entry>
+</feed>
